@@ -1,4 +1,7 @@
 header{
-background-color: gold;    
-color:black
-}
+    background-color: gold;    
+    color:black
+    }
+    .cabeçalho-imagem{
+        width: 20%
+    }
