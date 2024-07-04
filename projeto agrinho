@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jovens na Agroindústria</title>
+    <style>
+        /* Estilos básicos para o layout */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        header {
+            background-color: #4CAF50;
+            padding: 10px 0;
+            text-align: center;
+            color: white;
+        }
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        .content {
+            margin-top: 20px;
+            line-height: 1.6;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Jovens na Agroindústria</h1>
+    </header>
+
+    <div class="container">
+        <div class="content">
+            <h2>Oportunidades na Agroindústria para Jovens</h2>
+            <p>A agroindústria oferece diversas oportunidades para jovens interessados em agricultura, tecnologia e inovação. Este site visa informar e inspirar jovens a explorar carreiras neste setor crucial da economia.</p>
+            <h3>Conteúdos Destacados</h3>
+            <ul>
+                <li><a href="#">Cursos e Capacitações</a></li>
+                <li><a href="#">Histórias de Sucesso</a></li>
+                <li><a href="#">Tecnologias Emergentes</a></li>
+                <li><a href="#">Eventos e Feiras</a></li>
+            </ul>
+            <p>Explore nosso site para descobrir mais sobre como você pode fazer a diferença na agroindústria!</p>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Jovens na Agroindústria. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
